@@ -73,6 +73,7 @@ console load Demo_Nightmare
    1,L,J
   11,D
   40
+***s
 
 #lvl_4
    8,D
@@ -111,6 +112,7 @@ console load Demo_Nightmare
    2,R
   10,R,Z
   40
+***s
 
 #lvl_6
   12,R
@@ -135,6 +137,7 @@ console load Demo_Nightmare
   28,L,D
   10,D
   67
+***s
   21,J
   26,D
    7,L,D
