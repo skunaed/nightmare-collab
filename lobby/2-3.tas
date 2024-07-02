@@ -1,0 +1,21 @@
+RecordCount: 8
+
+console, load, Nightmare Collab/0-Lobbies/NightmareLobby, 624, -16
+   1
+
+#Start
+  36
+
+#lvl_lobby-01
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  11,R,D,X
+   1,R,J
+   7,R
+   1,R,N
+
+#0:00.697(41)
