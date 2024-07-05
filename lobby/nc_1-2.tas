@@ -3,10 +3,8 @@ RecordCount: 25
 console, load, Nightmare Collab/0-Lobbies/NightmareLobby, 216, -32
    1
 
-#Start
-  36
-
 #lvl_lobby-01
+  36
    4,R,Z
    1,R,J
    7,R

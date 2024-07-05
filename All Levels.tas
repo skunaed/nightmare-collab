@@ -2,7 +2,7 @@ Read,StartFullCollabFile
 
 Read,lobby/nc_0-1,lvl_lobby-00
 Read,EnterLevel,Start
-Read,maps/demo
+Read,maps/demo,Start
    1,O
   32
 
@@ -12,4 +12,4 @@ Read,EnterLevel,Start
 #   1,O
 #  32
 
-FileTime: 18:06.300(63900)
+FileTime: 0:37.519(2207)

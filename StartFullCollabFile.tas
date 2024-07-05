@@ -12,31 +12,29 @@ Add 61
 Skip
   70
 Add 41
-   1,J
-repeat 4
+repeat 3
    1,R
    1,F,90
 endrepeat
+   1,R
    1,D
    1,J
-repeat 3
+   1,D
+repeat 2
    1,L
    1,F,270
 endrepeat
-   1,U
+   1,L
    1,J
-repeat 2
+   1,U
    1,R
    1,F,90
-endrepeat
    1,R
    1,J
    1,R
-   1,J
-repeat 2
-   1,L
-   1,F,270
-endrepeat
+   1,F,90
+   1,R
+   1,U
    1,J
    1,S
   48

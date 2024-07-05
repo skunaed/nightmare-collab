@@ -1,10 +1,11 @@
-RecordCount: 722
+RecordCount: 724
 
-console, load, Nightmare Collab/1-NightmareLobby/1Demo_Nightmare
-   1
+#console, load, Nightmare Collab/1-NightmareLobby/1Demo_Nightmare
+#   1
+# 190
 
 #Start
- 190
+ 159
 
 #lvl_2
    4,R,Z

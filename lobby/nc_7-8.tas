@@ -1,0 +1,71 @@
+RecordCount: 203
+
+console, load, Nightmare Collab/0-Lobbies/NightmareLobby, 1080, -832
+   1
+
+#lvl_lobby-03
+  36
+   4,L,Z
+   5,L,J
+   2,L
+   1,L,J
+   8,L,D
+   7,D,X
+  40
+
+#lvl_lobby-02
+  10,R,D
+  15,R,D,X
+  23,R
+  95,R,D
+  46,D
+  40
+
+#lvl_lobby-01
+   7,L,D
+  16,R,D
+   4,R,Z
+   1,R,J
+   2,R
+  40
+
+#lvl_lobby-04
+console hearts 5
+console hearts 6
+   5,R
+   2,R,J
+   8
+   1,N
+  29
+   1,R
+ 121
+   1,X
+   4
+   5,R
+   5,R,J
+  14,R
+  12,K
+  12,J,G
+   4,K,G
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  16,R,D,X
+   1,R,J
+  14,R
+   4,R,J
+   3,R
+   7,R,D,X
+   1,R,J,G
+  11,R
+   8,R,J
+   2,R
+   9,R,D,X
+   1,R,J,G
+  11,R
+  19,R,J
+  17,R
+   1,R,N
+
+#0:12.002(706)

@@ -1,28 +1,23 @@
-RecordCount: 24
+RecordCount: 170
 
-console, load, Nightmare Collab/0-Lobbies/NightmareLobby, 1216, -24
+console, load, Nightmare Collab/0-Lobbies/NightmareLobby, 1072, 128
    1
-
-#Start
-  36
 
 #lvl_lobby-01
-   6,R,J
-  15,U,Z
-  18,J
-  40
-
-#lvl_lobby-02
-  11,L,J
-   1
-   1,K,G
-   7,L,Z
-   1,L,J
+  36
    6,L
-   1,L,J
-  12,L,D,X
-   1,L,J
-   6,L
-   1,L,N
+   6,L,D,J
+  12,R,K,G
+   4,J,G
+  15,U,X
+   7,L,J
+  11,R,J
+   4,R,K,G
+   7,R
+   4,R,Z
+   1,R,J
+   7,R,K,G
+  17,R
+   1,R,N
 
-#0:02.006(118)
+#0:01.632(96)
