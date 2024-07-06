@@ -1,4 +1,4 @@
-RecordCount: 433
+RecordCount: 471
 
 console, load, Nightmare Collab/1-NightmareLobby/5Seeker_nightmare
    1
@@ -117,15 +117,18 @@ console, load, Nightmare Collab/1-NightmareLobby/5Seeker_nightmare
    2,J,G
    3,L,J
    4,J
-  21,R,J
-  15,U,X
+  11,R,J
+  14,R,U,X
+   2,R,J,G
+   7,R
+  11,U,X
   40
 
 #lvl_6
-  12,R
-  22,R,X
-   4,R,Z
-   2,R,J
+  11,R
+  12,R,Z
+   1,R,J
+   1,R
    6,R,K,G
    2,R
    2,R,J,G
@@ -162,4 +165,4 @@ console, load, Nightmare Collab/1-NightmareLobby/5Seeker_nightmare
    7,R
   62,R,J
 
-ChapterTime: 0:24.922(1466)
+ChapterTime: 0:24.820(1460)
