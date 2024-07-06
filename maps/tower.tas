@@ -1,11 +1,10 @@
-RecordCount: 889
+RecordCount: 974
 
 console, load, Nightmare Collab/1-NightmareLobby/6Tower_Nightmare
    1
-
-#Start
  190
 
+#Start
 #lvl_1
   10,L,Z
    1,R,J
@@ -344,21 +343,26 @@ console, load, Nightmare Collab/1-NightmareLobby/6Tower_Nightmare
   52,L,D,G
   29,R,D,G
  109,R,G
-  65,L,D,G
-  40,L,G
-  32,R,D,G
-  21,R,G
+   5,L,D,G
+  35,L,G
+   1,R
+  20,L
+  21,L,D,X
+  15,L
+   2,L,D
+  15,R,D
+  15,R,X
+  20,R,D
+  30,L,D
+  27,D
+ 125,L,D,G
+ 201,D,G
    1,L
-  21,R,D
-  28,L,D
-  30,D
- 129,L,D,G
- 189,D,G
-   1,L
-  20,R,U,X
-  20,R,D,C
-  29,D
-  33,R,D
-  90,D
+  30,R,D
+  12,R,J
+  50,R,D
+  97,D
    4,U,X
  135,U
+
+ChapterTime: 1:06.623(3919)
