@@ -1,4 +1,4 @@
-RecordCount: 203
+RecordCount: 219
 
 console, load, Nightmare Collab/0-Lobbies/NightmareLobby, 1080, -832
    1
@@ -59,13 +59,12 @@ console hearts 6
    7,R,D,X
    1,R,J,G
   11,R
+   4,R,J
+  12,R
    8,R,J
-   2,R
-   9,R,D,X
-   1,R,J,G
-  11,R
-  19,R,J
-  17,R
+  16,R,D,X
+  11,R,J
+  15,R
    1,R,N
 
-#0:12.002(706)
+#0:11.985(705)
