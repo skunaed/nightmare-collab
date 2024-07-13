@@ -1,4 +1,4 @@
-RecordCount: 540
+RecordCount: 549
 
 console, load, Nightmare Collab/1-NightmareLobby/2Cave_Nightmare
    1
@@ -143,9 +143,9 @@ console, load, Nightmare Collab/1-NightmareLobby/2Cave_Nightmare
   27,R,U
  118,F,4.8
    3,F,6.7
- 388,R
-  15,R,D,X
-  65,R
+ 300,R
+  60,R
+  99,R,X
   40
 
 #lvl_8
@@ -173,4 +173,4 @@ console, load, Nightmare Collab/1-NightmareLobby/2Cave_Nightmare
   10,L,J
  104,L,D,X
 
-ChapterTime: 0:39.695(2335)
+ChapterTime: 0:39.542(2326)

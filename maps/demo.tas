@@ -1,4 +1,4 @@
-RecordCount: 725
+RecordCount: 747
 
 console, load, Nightmare Collab/1-NightmareLobby/1Demo_Nightmare
    1
@@ -112,19 +112,15 @@ console, load, Nightmare Collab/1-NightmareLobby/1Demo_Nightmare
   18,R,U,X
   17,R,Z
   32,R,D,X
-   5,R,Z
+  10,R,C
    7,R,J
-   1,R
-   2,R,K,G
-   2,R
-   4,R,J,G
-  10,R
-   6,R,J
-   3
+  12,R,K,G
+   8,R
   15,U,X
-  28,L,D
-  10,D
-  40
+   8,R
+  30,L,D
+   8,D
+  34
   12,J
   15,U,X
   56,D
@@ -148,4 +144,4 @@ console, load, Nightmare Collab/1-NightmareLobby/1Demo_Nightmare
   15,D,C
  120
 
-ChapterTime: 0:25.449(1497)
+ChapterTime: 0:25.432(1496)
