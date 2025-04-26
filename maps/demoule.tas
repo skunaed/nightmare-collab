@@ -1,4 +1,4 @@
-RecordCount: 510
+RecordCount: 540
 
 console load "Nightmare Collab/1-NightmareLobby/8Demoule_Nightmare"
    1
@@ -7,9 +7,11 @@ console load "Nightmare Collab/1-NightmareLobby/8Demoule_Nightmare"
  190
 
 #lvl_a
-  14,R,Z
+   4,R,Z
    1,R,J
-  14,R,D,X
+  12,R
+   1,R,J
+  10,R,D,X
    1,R,J
    7,R
    8,R,J
@@ -288,4 +290,4 @@ EndRepeat
    1,L,J
  104,L,D,X
 
-ChapterTime: 0:58.701(3453)
+ChapterTime: 0:58.684(3452)

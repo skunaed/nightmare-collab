@@ -1,7 +1,4 @@
-# Nightmare collab
-# https://gamebanana.com/mods/490145
-
-RecordCount: 1766
+RecordCount: 1773
 
 console load "Nightmare Collab/1-NightmareLobby/7Nightmare_Heartside"
    1
@@ -860,10 +857,13 @@ console load "Nightmare Collab/1-NightmareLobby/7Nightmare_Heartside"
    1,J
    3,R,J
   12,R,D,X
+***s
    1,R,J,G
   12,R
    6,R,J
   40
 
 #lvl_06-Homard
-  50,R
+   1,R,D
+  25,D
+ 506,L,D
