@@ -1,10 +1,11 @@
 RecordCount: 471
 
-console, load, Nightmare Collab/1-NightmareLobby/5Seeker_nightmare
+console load "Nightmare Collab/1-NightmareLobby/5Seeker_nightmare"
    1
- 190
 
 #Start
+ 190
+
 #lvl_1
    4,L,Z
   18,L,J

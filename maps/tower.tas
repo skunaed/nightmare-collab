@@ -1,10 +1,11 @@
 RecordCount: 1010
 
-console, load, Nightmare Collab/1-NightmareLobby/6Tower_Nightmare
+console load "Nightmare Collab/1-NightmareLobby/6Tower_Nightmare"
    1
- 190
 
 #Start
+ 190
+
 #lvl_1
   10,L,Z
    1,R,J

@@ -1,8 +1,9 @@
 console, load, Nightmare Collab/1-NightmareLobby/3Homard nightmare
    1
- 190
 
 #Start
+ 190
+
 #lvl_1
    4,R,Z
    1,R,J
@@ -70,7 +71,6 @@ console, load, Nightmare Collab/1-NightmareLobby/3Homard nightmare
    1,R
   29,R,Z
    4,R,J
-***s
    3,R,K
   19,R,D,X
   13,R
@@ -80,7 +80,6 @@ console, load, Nightmare Collab/1-NightmareLobby/3Homard nightmare
   40
 
 #lvl_3
-***s
    7,R,Z
    1,R,J
    1,R
