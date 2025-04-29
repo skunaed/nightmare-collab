@@ -1,4 +1,4 @@
-console, load, Nightmare Collab/1-NightmareLobby/3Homard nightmare
+console load "Nightmare Collab/1-NightmareLobby/3Homard nightmare"
    1
 
 #Start
@@ -87,4 +87,56 @@ console, load, Nightmare Collab/1-NightmareLobby/3Homard nightmare
    1,R
    1,R,J,G
    9,R
- 555,R,J
+  13,R,J
+  15,R,X
+   1,L,J
+   8,L
+   9
+  10,J
+   2,L,J
+   6,L
+  15,U,X
+  10,L
+   8,R,Z
+   2,L,J
+   7,L
+   1
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+  13,R
+  30,R,J
+  23,R,U,X
+   1,J,G
+  11
+   2,L
+  13,L,J
+  15,U,X
+   2,R,J
+   3,R,K,G
+   5,R,J,G
+   1,R,K,G
+   9,R
+  40
+
+#lvl_4
+   2,R
+   1,R,J
+  34,R,D
+  14,R,Z
+   4,R,J
+  19,R,K
+  15,R,U,X
+  12,R
+  10,R,J
+  13,R
+  21,R,Z
+   4,R,J
+  10,R,K
+  27,U,X
+  22,U
+  40
+
+#lvl_5
+ 555,R,U
