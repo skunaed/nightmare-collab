@@ -139,4 +139,143 @@ console load "Nightmare Collab/1-NightmareLobby/3Homard nightmare"
   40
 
 #lvl_5
- 555,R,U
+   3,U
+  31,R,U
+   4,R,Z
+  21,R,J
+  36,R,U
+  15,L,U
+   4,L,Z
+   1,L,J
+  13
+  26,R,U,X
+   7,R,Z
+   1,R,J
+  10,R
+  40
+
+#lvl_6
+  27,R,U,X
+   3,R,J
+  41,R,U
+  17,U,X
+   1,R
+  10,L,U,C
+   8,R,J
+  47,R,D,X
+   4,R,Z
+   1,R,J
+   6,R,K,G
+  79,R,D
+  24,R,Z
+   4,R,J
+  10,R,K
+   5,R
+   1,R,J
+   7,R
+  15,R,U,X
+  10,R
+  24
+  16,L,J
+  15,U,X
+  40,L,D
+   1,L,J
+  46,L,D
+  27,L,Z
+   4,R,G
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+***s
+  12,R,J,G
+  15,U,X
+  30,L,J
+   4,R,X
+  15,R,J
+  12,R,K,G
+  12,R,J,G
+  12,R,K,G
+   2,R,J,G
+   7,R
+  23,R,X
+***s
+   4,R,J
+   2,R,K
+  20,R,U,X
+  16,R
+  40
+
+#lvl_7
+***s
+  11,R
+   7,R,Z
+   1,R,J
+   7,R
+  15,R,J
+  24,R,X
+***s
+   6,R,U
+   1,U
+   6,R,U
+  18,U
+  14,L,U
+   1,L
+   9,L,U
+  15,R,X
+  19,L,U
+  15,L,X
+  27,R,U
+***s
+  17,U
+   5
+  43,R,U
+***s
+  20,R,X
+   4,R,J
+   1,R,K
+   3,R
+  15,D,X
+   6,R,D
+  14,D
+***s
+  22
+   5,J
+   4,R,J
+  40,R,D
+***s
+  26,D
+   8,R,D
+  15,L,X
+  17,D
+  49,R,D
+***s
+  11,R,J
+  23,R,X
+***s
+  38,U
+  69,R,U
+  24,R,Z
+***s
+  10,D
+ 119,R,D
+   3,L
+  10,L,U,X
+ 555
