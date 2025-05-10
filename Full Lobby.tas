@@ -1,7 +1,7 @@
 Unsafe
 
 console clrsav
-console, load, Nightmare Collab/0-Lobbies/NightmareLobby
+console load "Nightmare Collab/0-Lobbies/NightmareLobby"
    1
 
 Read,lobby/nc_0-1,lvl_lobby-00

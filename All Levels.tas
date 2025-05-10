@@ -20,8 +20,32 @@ Read,maps/seeker,Start
 
 Read,lobby/nc_3-4,lvl_lobby-01
 Read,EnterLevel,Start
-#Read,maps/demoule,Start
-#   1,O
-#  32
+Read,maps/demoule,Start
+   1,O
+  32
 
-FileTime: 2:26.642(8626)
+Read,lobby/nc_4-5,lvl_lobby-01
+Read,EnterLevel,Start
+Read,maps/cave,Start
+   1,O
+  32
+
+Read,lobby/nc_5-6,lvl_lobby-01
+Read,EnterLevel,Start
+Read,maps/myfirstgoodmap,Start
+   1,O
+  32
+
+Read,lobby/nc_6-7,lvl_lobby-01
+Read,EnterLevel,Start
+Read,maps/homard,Start
+   1,O
+  32
+
+Read,lobby/nc_7-8,lvl_lobby-03
+Read,EnterLevel,Start
+Read,maps/nightmare_heartside,Start
+   1,O
+  32
+
+FileTime: 10:18.392(36376)
