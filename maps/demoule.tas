@@ -1,4 +1,4 @@
-RecordCount: 626
+RecordCount: 641
 
 console load "Nightmare Collab/1-NightmareLobby/8Demoule_Nightmare"
    1
@@ -123,12 +123,19 @@ console load "Nightmare Collab/1-NightmareLobby/8Demoule_Nightmare"
    3,K
   10,L,X
    1,R,J
-StunPause Simulate
+StunPause
   10,R,J
    9,J
-  18,U,X
+skipinput 3 1
+   9,U,X
+SkipInput 3
+   9,U,X
    7,R
-  19,L,U,C
+skipinput 3 1
+  13,L,U,C
+SkipInput 3
+   6,L,U
+skipinput 3 1
    9,U,X
 EndStunPause
   13,L
