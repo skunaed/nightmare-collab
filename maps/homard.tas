@@ -96,6 +96,7 @@ console load "Nightmare Collab/1-NightmareLobby/3Homard nightmare"
    2,L,J
    6,L
   15,U,X
+***S
   10,L
    8,R,Z
    2,L,J
@@ -119,6 +120,7 @@ console load "Nightmare Collab/1-NightmareLobby/3Homard nightmare"
    1,R,K,G
    9,R
   40
+***S
 
 #lvl_4
    2,R
@@ -306,28 +308,21 @@ console load "Nightmare Collab/1-NightmareLobby/3Homard nightmare"
   19,J
   15,R,U,X
    9,L
-   1,L,J
-  42,L,X
-   4,R,G
-  20,U
-  11,L,U
-   2,U
-  11,L,U,X
-   4,R,J
-  15,R,U,X
-  18,R
-   6
+  20,L,U,X
+  18,R,U,C
+  33,L,U
   14,U,X
-  10
+  11
   15,L,U,X
    9
-   9
-   4,L
+   8
+   5,L
   10,L,X
-  26,L,J
+  28,L,J
   24,L,U,X
-   3
-  12,L
+***S
+   4
+  11,L
   10,R,X
   25,R,J
   24,R,U,X
@@ -354,4 +349,4 @@ console load "Nightmare Collab/1-NightmareLobby/3Homard nightmare"
   25,L,J
   40,L,D,X
 
-ChapterTime: 1:06.062(3886)
+ChapterTime: 1:05.093(3829)
