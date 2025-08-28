@@ -1,9 +1,9 @@
 RecordCount: 68
 
-console, load, Nightmare Collab/0-Lobbies/NightmareLobby, 1032, -160
+console load "Nightmare Collab/0-Lobbies/NightmareLobby" 1032 -160
    1
 
-#lvl_lobby-01
+#lvl_lobby-02
   36
    6,R,Z
    1,R,J
