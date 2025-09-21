@@ -1,37 +1,51 @@
-RecordCount: 94
+Read,StartFullCollabFile
 
-console load mikaxelk/TasContestWinter2024/tcw24
-   1
+Read,lobby/nc_0-1,lvl_lobby-00
+Read,EnterLevel,Start
+Read,maps/demo,Start
+   1,O
+  32
 
-#Start
-  91
+Read,lobby/nc_1-2,lvl_lobby-01
+Read,EnterLevel,Start
+Read,maps/tower,Start
+   1,O
+  32
 
-#lvl_intro
-  13,L,Z
-   1,R,J
-   7,R
-   1,R,J
-   4,R,K,G
-   2,K
-   1,R,K
-   8,R,D,X
-   4,R,J,G
-   5,R,K,G
-   6,R
-   1,R,J
-   3,R
-  11,R,J
-  14,R,D,X
-  40
+Read,lobby/nc_2-3,lvl_lobby-01
+Read,EnterLevel,Start
+Read,maps/seeker,Start
+   1,O
+  32
 
-   3,R,D
-   1,R,J
-   8,R,U,X
-   2,R,K,G
-  57,R,J,G
-***S
-   6,R,K
-  13,R,U,X
-  19,R,U,C
-  19,R,D,X
- 555,R,J
+Read,lobby/nc_3-4,lvl_lobby-01
+Read,EnterLevel,Start
+Read,maps/demoule,Start
+   1,O
+  32
+
+Read,lobby/nc_4-5,lvl_lobby-01
+Read,EnterLevel,Start
+Read,maps/cave,Start
+   1,O
+  32
+
+Read,lobby/nc_5-6,lvl_lobby-01
+Read,EnterLevel,Start
+Read,maps/myfirstgoodmap,Start
+   1,O
+  32
+
+Read,lobby/nc_6-7,lvl_lobby-01
+Read,EnterLevel,Start
+Read,maps/homard,Start
+   1,O
+  32
+
+Read,lobby/nc_7-8,lvl_lobby-03
+Read,EnterLevel,Start
+Read,maps/nightmare_heartside,Start
+   1,O
+  32
+
+FileTime: 9:59.658(35274)
