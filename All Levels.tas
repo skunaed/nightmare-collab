@@ -36,7 +36,7 @@ Read,maps/myfirstgoodmap,Start
    1,O
   32
 
-Read,lobby/nc_6-7,lvl_lobby-01
+Read,lobby/nc_6-7,lvl_lobby-02
 Read,EnterLevel,Start
 Read,maps/homard,Start
    1,O
